@@ -19,7 +19,15 @@
         {
             "name":"com.vrchat.udonsharp",
             "releases":[
-                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.1248.0/com.vrcfury.vrcfury-1.1248.0-vcc.zip"
+                "https://github.com/VRCFury/VRCFury/releases/download/com.vrcfury.vrcfury%2F1.1248.0/com.vrcfury.vrcfury-1.1248.0-vcc.zip",
+                "https://github.com/lilxyzw/lilToon/releases/download/2.1.8/jp.lilxyzw.liltoon-2.1.8.zip",
+                "https://github.com/poiyomi/PoiyomiToonShader/releases/download/v9.2.67/com.poiyomi.toon-9.2.67.zip",
+                "https://github.com/bdunderscore/modular-avatar/releases/tag/1.13.2",
+                "https://github.com/anatawa12/unity-gist-pack/releases/tag/v0.18.3",
+                "https://github.com/anatawa12/AvatarOptimizer/releases/tag/v1.8.13",
+                "https://github.com/Thryrallo/VRC-Avatar-Performance-Tools/releases/tag/1.3.7",
+                "https://github.com/whiteflare/AvatarTools/releases/tag/TOOLS_1.13.0"
+                
             ]
         }
     ]
