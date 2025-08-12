@@ -3,9 +3,9 @@
     "id":"com.vrchat.yo2ura-listing",
     "url":"https://yo2ura.github.io/vrchat-list/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"",
+        "name":"yozura",
+        "url":""
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
