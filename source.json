@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://yozura.github.io/vrchat-list/index.json",
+    "url":"https://yo2ura.github.io/vrchat-list/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/yozura/vrchat-list",
+        "url":"http://github.com/yo2ura/vrchat-list",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
